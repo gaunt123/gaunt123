@@ -91,5 +91,7 @@ function onRclick(el){
     document.getElementById("7").innerHTML = "";
     document.getElementById("8").innerHTML = "";
     pole=["","","","","","","","",""];
+    counter=2;
+    return counter;
     return pole;
 }
