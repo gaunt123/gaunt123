@@ -1,0 +1,127 @@
+body{
+    background-color: #43442e;
+}
+button {
+    font-size : 50px
+}
+.xoro1{
+    position: absolute;
+    top: 110px;
+    left: 90px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro2{
+    position: absolute;
+    top: 220px;
+    left: 90px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro3{
+    position: absolute;
+    top: 330px;
+    left: 90px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro4{
+    position: absolute;
+    top: 110px;
+    left: 200px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro5{
+    position: absolute;
+    top: 220px;
+    left: 200px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro6{
+    position: absolute;
+    top: 330px;
+    left: 200px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro7{
+    position: absolute;
+    top: 110px;
+    left: 310px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro8{
+    position: absolute;
+    top: 220px;
+    left: 310px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.xoro9{
+    position: absolute;
+    top: 330px;
+    left: 310px;
+    right: 100px;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.reset{
+    position: absolute;
+    top:470px;
+    left: 150px;
+    right: 100px;
+    bottom: 100px;
+    height: 50px;
+    width: 200px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    font-size : 30px
+}
